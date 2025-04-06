@@ -13,42 +13,10 @@ The goal of this project is to:
   - Popular product categories.
   - Customer trends.
   - Regional performance.
-- Design interactive filters, slicers, and visuals to allow users to explore the data in different ways.
+ 
 
-## Features
-
-- **Sales Insights**: Track total sales, revenue, and profit margins across different regions and product categories.
-- **Product Categories**: Understand the most popular product categories and their sales over time.
-- **Customer Analysis**: Insights into customer demographics, purchasing patterns, and frequency of purchases.
-- **Regional Performance**: Compare the performance of different regions where Blinkit operates.
-- **Time Series Analysis**: Visualize how sales and customer behavior change over time, such as by month or week.
-- **Interactive Filters**: Use slicers to filter data based on time, region, and product category.
-
-## Technologies Used
-
-- **Power BI**: For building the interactive dashboard.
-- **Excel**: For data input, storing sales data.
-- **DAX (Data Analysis Expressions)**: For creating calculated columns and measures to enhance data analysis.
-- **Power Query**: For cleaning and transforming data before loading it into Power BI.
-
-## Data Source
-
-The Excel file used in this project contains various datasets, including:
-
-- **Sales Data**: Contains information on product sales, including product names, quantities sold, revenue, and customer demographics.
-- **Product Category**: Information on product categories sold by Blinkit, including categories like groceries, personal care, and household items.
-- **Customer Data**: Details about customer demographics such as age group, location, and buying habits.
-
-**Note**: The Excel file is a simulated dataset for the purpose of this project. It may not represent actual Blinkit data.
-
-## How to Use the Dashboard
-
-1. **Open Power BI Desktop**.
-2. **Load the Excel file** containing the sales data into Power BI.
-3. **Transform the data** as necessary using Power Query for cleaning and structuring.
-4. **Create visuals** like bar charts, line graphs, and pie charts to display sales and other metrics.
-5. Use **slicers** to filter data by categories like region, product type, and time.
-6. **Publish the report** to Power BI Service for sharing or presenting to stakeholders.
+## Preview
+[Download Blinkit Sales Data (Excel)](https://drive.google.com/file/d/16f9PTgn2IHdLTh0Hq55hcs99kT2-w921/view?usp=sharing)
 
 ## Installation
 
