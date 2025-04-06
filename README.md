@@ -16,7 +16,7 @@ The goal of this project is to:
  
 
 ## Preview
-![Dashboard Preview](https://drive.google.com/uc?id=1W0Fz6__vBmuUAlEAUb6a0HDbp2s9Eooe)
+![Blinkit Dashboard](https://drive.google.com/uc?id=16f9PTgn2IHdLTh0Hq55hcs99kT2-w921)
 
 
 ## Installation
