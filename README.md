@@ -16,7 +16,8 @@ The goal of this project is to:
  
 
 ## Preview
-[Download Blinkit Sales Data (Excel)](https://drive.google.com/file/d/16f9PTgn2IHdLTh0Hq55hcs99kT2-w921/view?usp=sharing)
+![Dashboard Preview](https://drive.google.com/uc?id=1W0Fz6__vBmuUAlEAUb6a0HDbp2s9Eooe)
+
 
 ## Installation
 
